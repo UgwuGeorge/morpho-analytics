@@ -1,0 +1,147 @@
+{
+  "area_mean": 2040.4,
+  "area_max": 2061,
+  "duration": 20,
+  "events": [
+    {
+      "t": 0,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 1,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 2,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 3,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 4,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 5,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 6,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 7,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 8,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 9,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 10,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 11,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 12,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 13,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 14,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 15,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 16,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 17,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 18,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    },
+    {
+      "t": 19,
+      "births": 0,
+      "deaths": 0,
+      "merge": 0,
+      "split": 0
+    }
+  ]
+}

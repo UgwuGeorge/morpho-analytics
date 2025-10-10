@@ -1,0 +1,11 @@
+name: morpho-analytics
+display_name: Morpho Analytics Tracker
+contributions:
+  commands:
+    - id: morpho-analytics.make_widget
+      python_name: morpho_analytics_napari._widget:tracking_widget
+      title: Morpho-Analytics Tracker
+  widgets:
+    - command: morpho-analytics.make_widget
+      display_name: Morpho-Analytics Tracker
+      autogenerate: false

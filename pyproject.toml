@@ -1,0 +1,31 @@
+[project]
+name = "morpho-analytics"
+version = "0.1.0"
+authors = [
+    { name = "Eliot-System", email = "contact@eliot-system.com" },
+]
+description = "A CLI tool for object tracking and morpho-dynamic analysis in image sequences."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: Other/Proprietary License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "numpy",
+    "scikit-image",
+    "typer",
+    "tqdm",
+    "matplotlib",
+    "pandas"
+]
+
+[project.scripts]
+morphoctl = "morpho_analytics.cli:main"
+
+[project.optional-dependencies]
+napari = [
+    "napari[all]",
+    "napari-plugin-engine"
+]
