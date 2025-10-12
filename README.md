@@ -71,7 +71,7 @@ cd /path/to/morpho-analytics
 
 ```
 docker run --rm -v "$PWD/examples":/data \
-  eliotsystem/morpho-analytics:v0.1.9 \
+  [User-Name]/morpho-analytics:v0.1.9 \
   report /data/synth.npy --out /data/report.json --fig /data/report.png
 ```
 
