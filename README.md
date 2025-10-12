@@ -18,7 +18,7 @@ A Docker-ready command-line tool for object tracking and morpho-dynamic analysis
 ![overlay proof](docs/media/overlay_hela.png)
 
 ### Centroids over time (object positions across frames)  
-![centroids over time](docs/media/report.png)
+![centroids over time](docs/media/centroids_hela.png)
 
 ---
 
